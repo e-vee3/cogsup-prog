@@ -1,0 +1,64 @@
+#Expyriment 1.0.0 (Python 3.14.3), .xpe-file, coding: UTF-8
+#date: Thu May 28 2026 04:07:32
+#sha1: 566f90
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Darwin', node='Ivannas-MacBook-Pro.local', release='23.5.0', version='Darwin Kernel Version 23.5.0: Wed May  1 20:09:52 PDT 2024; root:xnu-10063.121.3~5/RELEASE_X86_64', machine='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+2229,design,log,
+#design: #exp: Deterministic and Stochastic
+#design: #dvn: block,trial,circle_position,response,rt,accuracy
+#design: block_cnt,block_id,trial_cnt,trial_id,circle_position
+#design: 0,0,0,0,right
+#design: 0,0,1,1,right
+#design: 0,0,2,2,right
+#design: 0,0,3,3,right
+#design: 0,0,4,4,right
+#design: 1,1,0,0,left
+#design: 1,1,1,1,left
+#design: 1,1,2,2,right
+#design: 1,1,3,3,right
+#design: 1,1,4,4,left
+#design: 1,1,5,5,left
+#design: 1,1,6,6,right
+#design: 1,1,7,7,right
+#design: 1,1,8,8,right
+#design: 1,1,9,9,left
+2229,design,logged,
+2229,Experiment,started
+2246,Stimulus,presented,30
+8551,Keyboard,received,32,wait
+8563,Stimulus,presented,31
+12797,Keyboard,received,32,wait
+12797,Stimulus,presented,10
+12812,Stimulus,presented,11
+14812,Keyboard,received,None,wait
+15312,Stimulus,presented,12
+15329,Stimulus,presented,13
+17329,Keyboard,received,None,wait
+17829,Stimulus,presented,14
+17845,Stimulus,presented,15
+18718,Keyboard,received,1073741903,wait
+19218,Stimulus,presented,16
+19229,Stimulus,presented,17
+19663,Keyboard,received,1073741903,wait
+20163,Stimulus,presented,18
+20180,Stimulus,presented,19
+20934,Keyboard,received,1073741904,wait
+21434,Stimulus,presented,20
+21445,Stimulus,presented,21
+22622,Keyboard,received,1073741904,wait
+23122,Stimulus,presented,22
+23128,Stimulus,presented,23
+23724,Keyboard,received,1073741903,wait
+24224,Stimulus,presented,24
+24229,Stimulus,presented,25
+25532,Keyboard,received,1073741903,wait
+26032,Stimulus,presented,26
+26045,Stimulus,presented,27
+27156,Keyboard,received,1073741903,wait
+27656,Stimulus,presented,28
+27662,Stimulus,presented,29
+28314,Keyboard,received,1073741904,wait
+28814,Experiment,ended
+28815,Data,saved

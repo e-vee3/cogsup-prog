@@ -1,0 +1,29 @@
+#Expyriment 1.0.0 (Python 3.14.3), .xpe-file, coding: UTF-8
+#date: Thu May 28 2026 04:27:04
+#sha1: bb5b9f
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Darwin', node='Ivannas-MacBook-Pro.local', release='23.5.0', version='Darwin Kernel Version 23.5.0: Wed May  1 20:09:52 PDT 2024; root:xnu-10063.121.3~5/RELEASE_X86_64', machine='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+1904,design,log,
+#design: #exp: Block Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id,trial_type,word
+#design: 0,0,0,7,mismatch,yellow
+#design: 0,0,1,1,mismatch,red
+#design: 0,0,2,6,match,yellow
+#design: 0,0,3,5,mismatch,blue
+#design: 0,0,4,2,match,green
+#design: 0,0,5,0,match,red
+#design: 0,0,6,4,match,blue
+#design: 0,0,7,3,mismatch,green
+1904,design,logged,
+1904,Experiment,started
+1923,Stimulus,presented,0
+2940,Stimulus,presented,1
+3953,Stimulus,presented,2
+4959,Stimulus,presented,3
+5969,Stimulus,presented,4
+6980,Stimulus,presented,5
+7984,Stimulus,presented,6
+8993,Stimulus,presented,7
+9993,Experiment,ended

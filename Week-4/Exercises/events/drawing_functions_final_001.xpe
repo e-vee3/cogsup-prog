@@ -1,0 +1,54 @@
+#Expyriment 1.0.0 (Python 3.14.3), .xpe-file, coding: UTF-8
+#date: Thu May 28 2026 04:56:19
+#sha1: 3a3349
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Darwin', node='Ivannas-MacBook-Pro.local', release='23.5.0', version='Darwin Kernel Version 23.5.0: Wed May  1 20:09:52 PDT 2024; root:xnu-10063.121.3~5/RELEASE_X86_64', machine='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+1498,design,log,
+#design: #exp: drawing_functions_final
+#design: block_cnt,block_id,trial_cnt,trial_id
+1498,design,logged,
+1498,Experiment,started
+1526,Stimulus,presented,0
+1540,Stimulus,presented,1
+2059,Stimulus,presented,0
+2089,Stimulus,presented,2
+2592,Stimulus,presented,0
+2608,Stimulus,presented,3
+3119,Stimulus,presented,0
+3137,Stimulus,presented,4
+3647,Stimulus,presented,0
+3663,Stimulus,presented,5
+4170,Stimulus,presented,0
+4186,Stimulus,presented,6
+4704,Stimulus,presented,0
+4720,Stimulus,presented,7
+5227,Stimulus,presented,0
+5243,Stimulus,presented,8
+5750,Stimulus,presented,0
+5766,Stimulus,presented,9
+6273,Stimulus,presented,0
+6288,Stimulus,presented,10
+6794,Stimulus,presented,0
+6810,Stimulus,presented,11
+7315,Stimulus,presented,0
+7331,Stimulus,presented,12
+7836,Stimulus,presented,0
+7853,Stimulus,presented,13
+8357,Stimulus,presented,0
+8373,Stimulus,presented,14
+8877,Stimulus,presented,0
+8893,Stimulus,presented,15
+9398,Stimulus,presented,0
+9413,Stimulus,presented,16
+9917,Stimulus,presented,0
+9934,Stimulus,presented,17
+10437,Stimulus,presented,0
+10453,Stimulus,presented,18
+10957,Stimulus,presented,0
+10973,Stimulus,presented,19
+11478,Stimulus,presented,0
+11494,Stimulus,presented,20
+11994,stdout,received,'[526, 549, 519, 529, 526, 523, 534, 523, 523, 522, 522, 522, 521, 520, 520, 520, 521, 519, 520, 521]'
+11994,Experiment,ended

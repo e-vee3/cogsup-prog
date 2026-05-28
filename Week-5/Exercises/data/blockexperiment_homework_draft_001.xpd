@@ -1,0 +1,31 @@
+#Expyriment 1.0.0 (Python 3.14.3), .xpd-file, coding: UTF-8
+#date: Thu May 28 2026 04:07:32
+#--EXPERIMENT INFO
+#e mainfile: blockexperiment_homework_draft.py
+#e sha1: 566f90
+#e modules: 
+#e Experiment: Deterministic and Stochastic
+#e no between subject factors
+#e Block 0: Deterministic
+#e     block factors: 
+#e     n trials: 5
+#e     trial factors: circle_position = [right]
+#e                    
+#e Block 1: Stochastic
+#e     block factors: 
+#e     n trials: 10
+#e     trial factors: circle_position = [left, right]
+#e                    
+#--SUBJECT INFO
+#s id: 1
+subject_id,block,trial,circle_position,response,rt,accuracy
+1,Stochastic,1,left,None,None,invalid
+1,Stochastic,2,left,None,None,invalid
+1,Stochastic,3,right,1073741903,872,correct
+1,Stochastic,4,right,1073741903,434,correct
+1,Stochastic,5,left,1073741904,753,correct
+1,Stochastic,6,left,1073741904,1176,correct
+1,Stochastic,7,right,1073741903,595,correct
+1,Stochastic,8,right,1073741903,1303,correct
+1,Stochastic,9,right,1073741903,1110,correct
+1,Stochastic,10,left,1073741904,651,correct

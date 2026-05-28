@@ -1,0 +1,20 @@
+#Expyriment 1.0.0 (Python 3.14.3), .xpe-file, coding: UTF-8
+#date: Thu Mar 12 2026 19:41:12
+#sha1: 96af72
+#modules: 
+#display: size=(800, 600), window_mode=False, opengl=2
+#os: uname_result(system='Darwin', node='Ivannas-MacBook-Pro.local', release='23.5.0', version='Darwin Kernel Version 23.5.0: Wed May  1 20:09:52 PDT 2024; root:xnu-10063.121.3~5/RELEASE_X86_64', machine='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+14241,design,log,
+#design: #exp: Circle
+#design: block_cnt,block_id,trial_cnt,trial_id
+14241,design,logged,
+14241,Experiment,started
+14262,Stimulus,presented,0
+15279,Stimulus,presented,1
+15829,Keyboard,received,32,wait
+15829,Experiment,ended
+15844,Stimulus,presented,2
+20093,stderr,received,'Traceback (most recent call last):'
+20094,stderr,received,'  File "/Users/ivanna/Desktop/Cog_SUP/Semester_02/Experimental Approach/PYTHON/cogsup-prog_assignments/Week-3/Exercises/display-edges.py", line 13, in <module>\n    square.present(clear=True, update=False)\n    ^^^^^^'
+20094,stderr,received,"NameError: name 'square' is not defined"

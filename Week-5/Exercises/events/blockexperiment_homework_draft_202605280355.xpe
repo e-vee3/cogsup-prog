@@ -1,0 +1,10 @@
+#Expyriment 1.0.0 (Python 3.14.3), .xpe-file, coding: UTF-8
+#date: Thu May 28 2026 03:55:43
+#sha1: 3a298d
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Darwin', node='Ivannas-MacBook-Pro.local', release='23.5.0', version='Darwin Kernel Version 23.5.0: Wed May  1 20:09:52 PDT 2024; root:xnu-10063.121.3~5/RELEASE_X86_64', machine='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+371,stderr,received,'Traceback (most recent call last):'
+371,stderr,received,'  File "/Users/ivanna/Desktop/Cog_SUP/Semester_02/Experimental_Approach/PYTHON/cogsup-prog_assignments/Week-5/Exercises/blockexperiment_homework_draft.py", line 70, in <module>\n    random.shuffle(positions)\n    ^^^^^^'
+371,stderr,received,"NameError: name 'random' is not defined. Did you forget to import 'random'?"

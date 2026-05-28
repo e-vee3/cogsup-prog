@@ -1,0 +1,17 @@
+#Expyriment 1.0.0 (Python 3.14.3), .xpd-file, coding: UTF-8
+#date: Thu May 28 2026 04:27:04
+#--EXPERIMENT INFO
+#e mainfile: april9_blockexperiment_draft.py
+#e sha1: bb5b9f
+#e modules: 
+#e Experiment: Block Experiment
+#e no between subject factors
+#e Block 0: Factorial Block
+#e     block factors: 
+#e     n trials: 8
+#e     trial factors: trial_type = [match, mismatch]
+#e                    word = [blue, green, red, yellow]
+#e                    
+#--SUBJECT INFO
+#s id: 1
+subject_id,
